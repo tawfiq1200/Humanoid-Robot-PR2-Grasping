@@ -1,0 +1,8 @@
+prefix=/home/tawfiq/pr2_ws/devel
+
+Name: pr2_package
+Description: Description of pr2_package
+Version: 0.0.0
+Cflags: -I/home/tawfiq/pr2_ws/devel/include -I/home/tawfiq/pr2_ws/src/pr2_package/include
+Libs: -L/home/tawfiq/pr2_ws/devel/lib -lpr2_package
+Requires: roscpp rospy std_msgs message_runtime

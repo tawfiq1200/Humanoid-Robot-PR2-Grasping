@@ -1,0 +1,8 @@
+prefix=/home/tawfiq/pr2_ws/install
+
+Name: pr2_ws_new
+Description: Description of pr2_ws_new
+Version: 0.0.0
+Cflags: -I/home/tawfiq/pr2_ws/install/include
+Libs: -L/home/tawfiq/pr2_ws/install/lib -lpr2_package
+Requires: roscpp rospy std_msgs

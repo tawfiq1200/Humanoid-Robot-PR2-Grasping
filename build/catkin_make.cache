@@ -1,0 +1,2 @@
+pr2_package:pr2_ws_new
+-DCATKIN_DEVEL_PREFIX=/home/tawfiq/pr2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tawfiq/pr2_ws/install -G Unix Makefiles
